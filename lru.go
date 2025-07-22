@@ -6,6 +6,8 @@ import (
 	"time"
 )
 
+//   Note==>we can also use priority queue for accessing and storing cached data
+
 // Problem: Thread-Safe LRU Cache with TTL
 // Implement a thread-safe LRU (Least Recently Used) cache with Time-To-Live (TTL) expiration that supports concurrent access and automatic cleanup.
 
